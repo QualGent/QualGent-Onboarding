@@ -6,6 +6,15 @@
 
 ---
 
+## Additional Resources
+
+This repository contains comprehensive documentation for new engineers joining QualGent:
+
+- **[Technical Onboarding Guide](README.md)** - This document (complete technical overview)
+- **[Customer-First Bug Fixing Guidelines](CUSTOMER_FIRST_BUG_FIXING_GUIDELINES.md)** - Our process and standards for handling customer issues
+
+---
+
 ## Table of Contents
 
 1. [Executive Summary](#executive-summary)
