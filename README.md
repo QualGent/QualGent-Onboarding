@@ -1612,7 +1612,6 @@ readinessProbe:
 **Alert Channels**:
 - Email: ops@qualgent.com
 - Google Chat: qualgent-alerts space
-- PagerDuty: On-call engineer (critical only)
 
 ### Log Analysis
 
@@ -2224,7 +2223,6 @@ SELECT * FROM test_runs WHERE result = 'failed' ORDER BY created_at DESC;
 - Architecture Diagrams: [Confluence/Wiki URL]
 - Runbook: [URL]
 - Incident Response: [URL]
-- On-Call Schedule: [PagerDuty URL]
 
 **External**:
 - FastAPI: https://fastapi.tiangolo.com/
@@ -2240,20 +2238,6 @@ SELECT * FROM test_runs WHERE result = 'failed' ORDER BY created_at DESC;
 - AppiumCUA: https://github.com/QualGent/AppiumCUA
 - QualGent-Emulator: https://github.com/QualGent/QualGent-Emulator
 - QualGent-Emulator-Manager: https://github.com/QualGent/QualGent-Emulator-Manager
-
-### Communication Channels
-
-**Google Chat Spaces**:
-- engineering: General engineering discussion
-- qualgent-alerts: Automated alerts
-- qualgent-deployments: Deployment notifications
-- incidents: Incident response
-- on-call: On-call engineer coordination
-
-**Meetings**:
-- Engineering All-Hands: Weekly, Mondays 10am
-- Platform Sync: Daily standup, 9am
-- On-Call Handoff: Weekly, Fridays 4pm
 
 ---
 
