@@ -1611,7 +1611,7 @@ readinessProbe:
 
 **Alert Channels**:
 - Email: ops@qualgent.com
-- Slack: #qualgent-alerts
+- Google Chat: qualgent-alerts space
 - PagerDuty: On-call engineer (critical only)
 
 ### Log Analysis
@@ -2243,12 +2243,12 @@ SELECT * FROM test_runs WHERE result = 'failed' ORDER BY created_at DESC;
 
 ### Communication Channels
 
-**Slack Channels**:
-- #engineering: General engineering discussion
-- #qualgent-alerts: Automated alerts
-- #qualgent-deployments: Deployment notifications
-- #incidents: Incident response
-- #on-call: On-call engineer coordination
+**Google Chat Spaces**:
+- engineering: General engineering discussion
+- qualgent-alerts: Automated alerts
+- qualgent-deployments: Deployment notifications
+- incidents: Incident response
+- on-call: On-call engineer coordination
 
 **Meetings**:
 - Engineering All-Hands: Weekly, Mondays 10am
@@ -2380,7 +2380,7 @@ This document provides a comprehensive overview of the QualGent platform archite
 **Remember**:
 - Always test changes locally before deploying
 - Monitor logs and metrics after deployments
-- Ask questions in #engineering Slack channel
+- Ask questions in engineering Google Chat space
 - Document any issues or improvements you discover
 
 **Welcome to the QualGent team!**

@@ -361,7 +361,7 @@ We'll review these weekly in team meetings:
    - Create Linear ticket: [QUAL-567]
    - Priority: **Urgent** (1 business day SLO)
    - Drop current work, focus on this
-   - Notify team in #engineering-urgent Slack channel
+   - Notify team in engineering-urgent Google Chat space
 
 2. **Investigation (within 1 hour):**
    - Check error logs, Sentry alerts
@@ -484,8 +484,8 @@ We'll review these weekly in team meetings:
 ### When You're Stuck
 
 **If you're blocked for > 2 hours:**
-1. Post in #engineering Slack channel
-2. Tag relevant team members
+1. Post in engineering Google Chat space
+2. Mention relevant team members
 3. Update Linear ticket with blocker details
 4. Request pair programming session if helpful
 
@@ -497,7 +497,7 @@ We'll review these weekly in team meetings:
 ### Resources
 
 - **Technical Documentation:** QualGent_Tech_Stack_Onboarding.md
-- **Architecture Questions:** #engineering Slack
+- **Architecture Questions:** engineering Google Chat space
 - **Linear Best Practices:** Linear documentation
 - **On-Call Engineer:** See PagerDuty schedule
 
